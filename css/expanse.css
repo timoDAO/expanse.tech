@@ -1,0 +1,259 @@
+﻿/* ============================================================================================== 
+This copyright notice must be kept untouched in the stylesheet at all times.
+The original version of this stylesheet and the associated (x)html 
+is available at http://www.script-tutorials.com/bootstrap-one-page-template-with-parallax-effect/
+Copyright (c) Script Tutorials. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any way to fit your requirements.
+================================================================================================= */
+
+/* general styles */
+html, body {
+  height: 100%;
+  width: 100%;
+  color:#F8F8F8;
+}
+.basefont { color:#F8F8F8;}
+/* padded section */
+.pad-section {
+  padding: 50px 0;
+}
+.pad-section img {
+  width: 100%;
+}
+
+/* vertical-centered text */
+.text-vcenter {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+.text-vcenter h1 {
+  font-size: 4.5em;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+#home { 
+  background: url(../images/universe.jpg) no-repeat center center fixed;
+  display: table;
+  height: 85%;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#home_sm { 
+  background: url(../images/universe.jpg) no-repeat center center fixed;
+  display: table;
+  height: 320px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#about {
+  background-color: #152139;
+  color: #ffffff;
+  
+}
+#about .glyphicon {
+  border: 2px solid #FFFFFF;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 60px;
+  height: 140px;
+  line-height: 140px;
+  text-align: center;
+  vertical-align: middle;
+  width: 140px;
+}
+#contracts {
+  background-color: #152139;
+  color: #ffffff;
+  
+}
+#contracts .glyphicon {
+  border: 2px solid #FFFFFF;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 60px;
+  height: 140px;
+  line-height: 140px;
+  text-align: center;
+  vertical-align: middle;
+  width: 140px;
+}
+#faq {
+  background-color: #000;
+  color: #ffffff;
+  padding: 10px 0px 30px;
+}
+
+#community {
+  background: url(../images/universe.jpg) no-repeat center center fixed;
+  display: table;
+  height: 300px;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#community .panel {
+  /*opacity: 0.85;*/
+}
+.test{ display: table;position: relative;}
+#documentation {
+  
+}
+
+#downloads {
+ 
+ 
+}
+
+footer {
+  padding: 20px 0;
+}
+footer .glyphicon {
+  color: #333333;
+  font-size: 60px;
+}
+footer .glyphicon:hover {
+  color: #306d9f;
+}
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;
+}
+/* This should be around line 4713 in your bootstrap.css */
+.navbar-collapse.collapse {
+        text-align: center; /* Set this */
+        height: auto !important;
+        padding-bottom: 0;
+        overflow: visible !important;
+        font-weight:bold;
+}
+
+/* This should be around line 4866 in your bootstrap.css */
+.navbar-nav {
+    display:inline-block;
+    float: none;
+    margin: 0;
+	
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.btn-top5{margin-top:10px;}
+.bar-orange{height:3px;width:100%;background-color:#df691a;}
+.bar-darkblue{height:3px;width:100%;background-color:#152139;display:  block}
+.bar-greyblue{height:3px;width:100%;background-color:#2b3e50; display:  block}
+.panel-sm{width: 250px; float:left;}
+.panel-md{width: 450px; float:left;margin-left:10px;}
+.margin-0-10{margin:0px 15px;}
+.cursor-pointer{cursor:pointer;}
+.cursor-pointer:hover { -webkit-box-shadow: 0px 0px 15px 5px rgba(255, 255, 222, .75);
+-moz-box-shadow: 0px 0px 15px 5px rgba(255, 255, 222, .75);
+box-shadow: 0px 0px 15px 5px rgba(255, 255, 222, .75); }
+body{padding-top:50px;}
+.section { 
+ padding-top: 60px;
+    margin-top: -60px; 
+}
+
+
+    .panel-transparent {
+        background: none;
+    }
+
+    .panel-transparent .panel-heading{
+        background: rgba(122, 130, 136, 0.8)!important;
+    }
+
+    .panel-transparent .panel-body{
+        background: rgba(46, 51, 56, 0.8)!important;
+    }
+	.panel-body ul{list-style:none;padding:0px 15px;}
+	.h7{height: 7px;}
+	.h15{height: 15px;}
+	.navback{background-image:url(../images/header_bg.png); background-repeat:repeat-x; }
+	.zeropad{margin:0px !important; padding:0px !important; }
+	.mt10{margin-top:10px;}
+	.textshadow{text-shadow: 2px 2px 2px #000;}
+	#overlay {
+ position: fixed;
+ left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+ background-color: #333333;
+ /*Cross-browser opacity below*/
+ -moz-opacity:.80;
+ filter:alpha(opacity=80);
+ opacity:.80;
+ z-index: 10000000;
+}
+#button_slack{width:139px; height:40px; margin:25px 48px ;}
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.blocktable td, .blocktable th {
+   text-align: center; 
+}
+.blocktable td a { text-decoration: none !important; }
+.orange, .orange a {color:#df691a !important;}
+.orange .active a {color:#fff !important;}
+
+#explorer_search {
+  background-color: #000;
+  color: #ffffff;
+  padding: 35px 0px 20px;
+  -webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.06);
+
+  box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.06);
+
+}
+#explorer_search_box{
+padding-top:4px;	
+}
+#explorer_base {
+  background-color: #152139;
+  color: #ffffff;
+  padding: 20px;
+ 
+}
+.mt5{margin-top:5px !important;}
+#search{
+width:360px;
+  padding: 0 10px;
+  color: #bbb;
+  background: #000 !important;
+  border: 1px solid #2b3e50;
+  border-radius: 8px;
+ 
+  }
+  
+  .btn{  border-radius: 5px;}
+  .centertable td {text-align:center;border:1px #888888 solid;padding:5px;}
+  .h450{height:450px;}
+  .nlist{list-style-type:square; }
+  .nlist li{display: inline; }
+  .spcrow div {
+	  margin-bottom:20px;
+  }
