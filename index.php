@@ -132,7 +132,7 @@ the project's operating assets/reserve funds, and more. </p>
             <div class="panel-body ">ExpanseJS</div>
           </div>
         </div>
-        <h5>Please keep in mind, these are all super early releases. There is no gurnatee they will operate as intended.<br>
+        <h5>Please keep in mind, these are all super early releases. There is no guarantee they will operate as intended.<br>
           For more information, please visit out users guide.</h5>
       </div>
     </div>
