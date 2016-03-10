@@ -27,8 +27,8 @@ expanse.tech/index.php
 <?php include('./header.php'); ?>
 <div id="home" class="home">
   <div class="text-vcenter"> <img src="images/Expanse-white.png" width="316" height="181" alt="" />
-    <h2 class="textshadow">Open Source, Open Distribution Decentralized Platform</h2>
-    <div> <a href="#downloads" class="btn btn-default btn-lg btn-top5">Download</a> <a href="#contracts" class="btn btn-default btn-lg btn-top5">DAPPs / Contracts</a> <a href="#documentation" class="btn btn-default btn-lg btn-top5">Documentation</a> </div>
+    <h2 class="textshadow">Plateforme Décentralisée Open Source et Open Distribution</h2>
+    <div> <a href="#downloads" class="btn btn-default btn-lg btn-top5">Téléchargement</a> <a href="#contracts" class="btn btn-default btn-lg btn-top5">DAPPs / Contrats</a> <a href="#documentation" class="btn btn-default btn-lg btn-top5">Documentation</a> </div>
   </div>
 </div><!-- /home -->
 
@@ -36,32 +36,28 @@ expanse.tech/index.php
   <div class="bar-orange"></div>
   <div class="bar-greyblue"></div>
   <div class="container">
-    <h2 class="text-center">What is Expanse?</h2>
+    <h2 class="text-center">Qu'est ce que Expanse?</h2>
     <hr />
     <div class="row text-center">
-   <p> Expanse is a decentralized cryptographic information, application, and contract platform. It is among the first of such to be fairly distributed, democratically controlled, and community managed. Through the use of smart contracts and decentralized blockchain technology, it is run not by any one individual or group, but by the users of Expanse itself. The project is organized, managed, and operated through a decentralized organization leveraging direct influence over the platform and its future to those that matter most: our community. New features, integration, and core modifications of the expanse platform and organization can be nominated, voted on, and implemented according to the collective opinion.</p>
+   <p> Expanse est une plateforme cryptographique d'informations, d'applications, et de contrats. Elle est l'une des premières du genre à être équitablement distribuée, démocratiquement contrôlée, et gérée par la communauté. Via l'utilisation de contrats intelligents et d'une technologie de blockchain décentralisée, elle n'est pas régit par n'importe quel individu ou groupe, mais par les utilisateurs d'Expanse eux mêmes. Le projet est organisé, géré, et exploité via une structure décentralisée démultipliant le rayonnement direct de la plateforme et de son avenir auprès de ceux qui comptent le plus : sa communauté. Les nouvelles fonctionnalités, l'intégration, et les modifications profondes de la plateforme et de la structure d'Expanse peuvent être nominées, votées, et implémentées selon l'opinion commune.</p>
     </div>
     <br />
     <div class="row text-center">
       <div class="col-sm-3 col-xs-6"> <i class="glyphicon glyphicon-list-alt"> </i>
-        <h4>Smart Contracts &amp; DApps</h4>
-        <p>Diverse, dynamic, decentralize applications running on the Expanse Blockchain. From decentralized markets, global registries, computationally enforced agreements, to entire organizations operated exclusively on the blockchain.</p>
+        <h4>Contrats Intelligents &amp; DApps</h4>
+        <p>Des applications diversifiées, dynamiques, et décentralisées, opérant sur le Blockchain Expanse, allant des marchés décentralisés, registres globaux, accords imposés par calcul, jusqu'à toute structure opérant exclusivement sur le blockchain.</p>
       </div>
       <div class="col-sm-3 col-xs-6"> <i class="glyphicon glyphicon-cloud"> </i>
-        <h4>Decentralized EVERYTHING.</h4>
-        <p>Decentralized Data Storage, Record Keeping, Information Processing, Smart Assets, and more.  Expanse allows for   a world of innovation built on top of its distributed technology.</p>
+        <h4>Le TOUT décentralisé.</h4>
+        <p>Stockage Décentralisé de Données, Tenue de Registres, Traitement de l'Information, Actifs Intelligents, et plus encore. Expanse permet un monde innovant bâti sur sa technologie distribuée.</p>
       </div>
       <div class="col-sm-3 col-xs-6"> <i class="glyphicon glyphicon-flash"> </i>
-        <h4>Fast. Intuitive. Poweful.</h4>
-        <p>Blockchain technology meets Complex Smart Contracts to bring you unprecedented results. Exponentially improved speed,  reliability, and performance made available for drastically reduced costs when compared to traditional solutions.</p>
+        <h4>Rapide. Intuitif. Puissant.</h4>
+        <p>La technologie blockchain répond aux Contrats Intelligents Complexes pour vous apporter des résultats sans précédents. Vitesse exponentiellement améliorée, fiabilité, et performance permettent des réductions de coût drastiques en comparaison des solutions traditionnelles. </p>
       </div>
       <div class="col-sm-3 col-xs-6"> <i class="glyphicon glyphicon-user"> </i>
-        <h4>Community</h4>
-        <p>EN COURS FR The Expanse Project is managed by a decentralized organization
-operating on the Expanse Blockchain. This  entity
-is responsible for significant decisions such as deciding what
-features or updates to be focused on by developers, managing
-the project's operating assets/reserve funds, and more. </p>
+        <h4>Communauté</h4>
+        <p>Le Projet Expanse est géré par une structure décentralisée opérant sur le Blockchain Expanse. Cette entité est responsable des décisions significatives :  décider sur quelles nouveautés ou mises-à-jour doivent se concentrer les développeurs, gérer les fonds de réserve ou actifs de fonctionnement du projet, et bien plus.</p>
       </div>
     </div>
   </div>
@@ -71,8 +67,8 @@ the project's operating assets/reserve funds, and more. </p>
   <div class="container">
     <div class="row pad-section" >
       <div class="text-center"> <img src="images/Expanse-white-sm.png" width="140" height="80" style="width:140px;height:80px;" alt=""/>
-        <h2>Downloads: GEXP, EXPWallet, and more!</h2>
-        <p class="lead">Expanse has a variety of software and tools. Please have a look at some of the most popular expanse software:</p>
+        <h2>Téléchargements : GEXP, EXPwallet, et plus!</h2>
+        <p class="lead">Expanse offre un panel de logiciels et d'outils. N'hésitez pas à jeter un œil à certains des logiciels Expanse les plus populaires:</p>
         <div class="row text-center ">
           <div style="margin:0 auto;  width:930px;">
             <div class="panel panel-default panel-md cursor-pointer h450" >
@@ -81,7 +77,7 @@ the project's operating assets/reserve funds, and more. </p>
               </div>
               <div class="panel-body">
                 <img src="images/console2.png" width="190" height="137" alt="" style="width:142px;height:102px;float:left;"/>
-                <p>The primary expanse implementation. Developed in GO, It is the ideal way to operate an Expanse node or as a backend for Expanse Distributed Applications.         </p>
+                <p>L'implémentation primaire d'Expanse. Développée sous GO, c'est le moyen idéal pour exploiter un nœud Expanse ou comme backend d'Applications Expanse Distribuées.         </p>
                 <br />
                 <table width="400" border="1" class="centertable" align="center">
                   <tbody>
@@ -120,10 +116,7 @@ the project's operating assets/reserve funds, and more. </p>
               </div>
               <div class="panel-body">
                 <img src="images/wallet1.jpg" width="190" height="137" alt="" style="width:142px;height:102px;float:left;"/> 
-                <p>An intuitive, easy to use  client <br>
-                  featuring 
-                display of accounts and transactions, allowing for direct access<br>
-                to the most  utilized features in expanse.</p>
+                <p>Un client d'affichage intuitif et pratique des comptes et transactions, permettant l'accès direct aux fonctionnalités Expanse les plus utilisées.</p>
                 <br />
                 <table width="400" border="1" class="centertable" align="center">
                   <tbody> <tr> <td colspan="4">Current Version: v0.0.3</td></tr>
@@ -158,8 +151,8 @@ the project's operating assets/reserve funds, and more. </p>
             <div class="panel-body ">ExpanseJS</div>
           </div>
         </div>
-        <h5>Please keep in mind, these are all super early releases. There is no guarantee they will operate as intended.<br>
-          For more information, please visit out users guide.</h5>
+        <h5>Veuillez garder à l'esprit que ces versions sont très récentes. Il n'y a pas de garantie qu'elles fonctionneront comme prévu.<br>
+          Pour plus d'information, merci de se référer au Guide Utilisateur.</h5>
       </div>
     </div>
   </div>
@@ -179,24 +172,24 @@ the project's operating assets/reserve funds, and more. </p>
 <div id="community" class="section pad-section">
   
   <div class="container">
-    <h2>Community</h2>
-    <h4>Let's Party!</h4>
+    <h2>Communauté</h2>
+    <h4>Fêtons ça!</h4>
     <br>
     <div class="row">
       <div class="col-sm-3">
         <div class="panel panel-default panel-transparent">
           <div class="panel-heading">
-            <h2 class="panel-title">Community Forum </h2>
+            <h2 class="panel-title">Forum de la communauté </h2>
           </div>
           <div class="panel-body">
         
                <p class="text-justify">
-              The <a href="//forum.expanse.tech">Expanse Forum</a> is the best place for detailed discussion of Expanse  and historic conversations regarding the project. <br>
+              Le  <a href="//forum.expanse.tech">Forum Expanse</a>  est le meilleur endroit pour discuter de Expanse dans les détails et pour prendre connaissance des conversations historiques concernant le projet.<br>
             </p>
-            Featured Sub-Forums:<br>
-            <a href="//forum.expanse.tech/category/1/announcements">News &amp; Announcements</a><br>
-            <a href="//forum.expanse.tech/category/6/development-technical-discussion">Development and Technical Discussion</a><br>
-            <a href="//forum.expanse.tech/category/8/contracts-dapps">Contracts &amp; Decentralized Applications </a>
+            Les Sous-Forums majeurs :<br>
+            <a href="//forum.expanse.tech/category/1/announcements">News &amp; Annonces</a><br>
+            <a href="//forum.expanse.tech/category/6/development-technical-discussion">Développement et Technique : Discussions</a><br>
+            <a href="//forum.expanse.tech/category/8/contracts-dapps">Contrats &amp; Applications Décentralisées </a>
             
             </div>
         </div>
@@ -204,12 +197,12 @@ the project's operating assets/reserve funds, and more. </p>
       <div class="col-sm-3">
         <div class="panel panel-default panel-transparent">
           <div class="panel-heading">
-            <h2 class="panel-title">Interact Live</h2>
+            <h2 class="panel-title">Interagir en direct</h2>
           </div>
           <div class="panel-body" style="text-align:">
-            <p class="text-justify">The community is very active on slack. If you want to participate or discuss expanse with the community and developers.<br>
+            <p class="text-justify">La communauté est très active sur Slack. Si vous désirez participer ou discuter de Expanse avec la communauté et les développeurs :<br>
               <a href="http://slack.expanse.tech"><img src="images/slack.png" width="139" height="40" alt="Slack" id="button_slack" /></a></p>
-            <p class="text-center"> Join us to chatIRC!<br>
+            <p class="text-center"> Rejoignez nous sur le chatIRC!<br>
               #expanse on freenode!<br>
               <a href="irc://irc.freenode.net/expanse">irc://freenode.net/expanse</a></p>
           </div>
@@ -218,11 +211,11 @@ the project's operating assets/reserve funds, and more. </p>
       <div class="col-sm-3">
         <div class="panel panel-default panel-transparent">
           <div class="panel-heading">
-            <h2 class="panel-title">Contributors</h2>
+            <h2 class="panel-title">Contributeurs</h2>
           </div>
-          <div class="panel-body"> Contribute to the project!<br>
+          <div class="panel-body"> Contribuez au projet!<br>
             <br>
-            Please stay tuned, we are currently drafting contribution guide lines!. <br>
+            Restez à l'écoute, nous préparons actuellement des lignes directrices pour la contribution au projet. <br>
             <br>
           </div>
         </div>
@@ -290,7 +283,7 @@ the project's operating assets/reserve funds, and more. </p>
 <div id="documentation" class="section pad-section"> 
   <div class="container">
     <h1>Documentation</h1>
-    <h4>Learn more about the Expanse project and it's technology. From a quick start guide for brand new users to detailed technical specifications, an array of documentation is available to help you use and understand Expanse. </h4>
+    <h4>En apprendre plus sur le projet Expanse et sa technologie. Du guide de démarrage pour les nouveaux utilisateurs aux spécifications techniques détaillées, un panel de documents est disponible pour vous aider à utiliser et comprendre Expanse. </h4>
     <div class="row">
       <div class="col-sm-6">
         <div class="panel panel-default">
@@ -300,11 +293,11 @@ the project's operating assets/reserve funds, and more. </p>
           <div class="panel-body">
             <ul>
               <li><a href="./docs/guide#install">Installation</a></li>
-              <li><a href="./docs/guide#basics">Basic Concepts</a></li>
-              <li><a href="./docs/guide#backup">Backing Up &amp; Restoring</a></li>
-              <li><a href="./docs/guide#mining">Mining Quick Start</a></li>
-              <li><a href="./docs/guide#accounts">Managing Accounts</a></li>
-              <li><a href="./docs/guide#transactions">Sending Transactions</a></li>
+              <li><a href="./docs/guide#basics">Concepts de base</a></li>
+              <li><a href="./docs/guide#backup">Sauvegarder &amp; Restaurer</a></li>
+              <li><a href="./docs/guide#mining">Démarrage rapide du minage</a></li>
+              <li><a href="./docs/guide#accounts">Gérer les comptes</a></li>
+              <li><a href="./docs/guide#transactions">Envoyer des transactions</a></li>
             </ul>
           </div>
         </div>
@@ -314,7 +307,7 @@ the project's operating assets/reserve funds, and more. </p>
           </div>
           <div class="panel-body">
             <ul>
-              <li><a href="//blog.expanse.tech">Expanse Blog</a></li>
+              <li><a href="//blog.expanse.tech">Blog Expanse</a></li>
             </ul>
           </div>
         </div>
@@ -322,11 +315,11 @@ the project's operating assets/reserve funds, and more. </p>
       <div class="col-sm-6">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h2 class="panel-title">Technical Documentation</h2>
+            <h2 class="panel-title">Documentation techniques</h2>
           </div>
           <div class="panel-body">
             <ul>
-              <li><a href="/docs/guide">User Guide</a></li>
+              <li><a href="/docs/guide">Guide Utilisateur</a></li>
               <li><a href="/docs/whitepaper-draft.pdf">White Paper</a></li>
               <li><a href="/docs/roadmap.pdf">Roadmap</a></li>
               <li></li>
