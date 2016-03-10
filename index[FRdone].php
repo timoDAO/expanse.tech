@@ -28,7 +28,7 @@ expanse.tech/index.php
 <div id="home" class="home">
   <div class="text-vcenter"> <img src="images/Expanse-white.png" width="316" height="181" alt="" />
     <h2 class="textshadow">Plateforme Décentralisée Open Source et Open Distribution</h2>
-    <div> <a href="#downloads" class="btn btn-default btn-lg btn-top5">Téléchargement</a> <a href="#contracts" class="btn btn-default btn-lg btn-top5">DAPPs / Contrats</a> <a href="#documentation" class="btn btn-default btn-lg btn-top5">Documentation</a> </div>
+    <div> <a href="#downloads" class="btn btn-default btn-lg btn-top5">Téléchargements</a> <a href="#contracts" class="btn btn-default btn-lg btn-top5">DAPPs / Contrats</a> <a href="#documentation" class="btn btn-default btn-lg btn-top5">Documentation</a> </div>
   </div>
 </div><!-- /home -->
 
