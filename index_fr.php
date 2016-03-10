@@ -24,7 +24,7 @@ expanse.tech/index.php
 1d68c20 24 days ago
 @dev-dan dev-dan Fixed Typo
 323 lines (304 sloc) 15.6 KB
-<?php include('./header.php'); ?>
+<?php include('./header_fr.php'); ?>
 <div id="home" class="home">
   <div class="text-vcenter"> <img src="images/Expanse-white.png" width="316" height="181" alt="" />
     <h2 class="textshadow">Plateforme Décentralisée Open Source et Open Distribution</h2>
@@ -319,9 +319,9 @@ expanse.tech/index.php
           </div>
           <div class="panel-body">
             <ul>
-              <li><a href="/docs/guide">Guide Utilisateur</a></li>
-              <li><a href="/docs/whitepaper-draft.pdf">White Paper</a></li>
-              <li><a href="/docs/roadmap.pdf">Roadmap</a></li>
+              <li><a href="/docs/guideFR">Guide Utilisateur</a></li>
+              <li><a href="/docs/whitepaper-draft_FR.pdf">White Paper</a></li>
+              <li><a href="/docs/roadmapFR.pdf">Plan de Route</a></li>
               <li></li>
             </ul>
           </div>
@@ -339,7 +339,7 @@ expanse.tech/index.php
 <div class="bar-darkblue h7"></div>
 <div class="bar-orange"></div>
 <div class="bar-darkblue"></div>
-<?php include('./footer.php'); ?>
+<?php include('./footer_fr.php'); ?>
 
     Status API Training Shop Blog About Pricing 
 
